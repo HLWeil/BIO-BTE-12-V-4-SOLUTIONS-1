@@ -1,6 +1,6 @@
 (**
 ---
-title: 05 Data access
+title: 10 Datenzugriff
 category: Musterlösungen(deutsch)
 categoryindex: 1
 index: 10
@@ -9,9 +9,9 @@ index: 10
 
 (**
 
-[![Binder](/BIO-BTE-12-V-4/img/badge-binder.svg)](https://mybinder.org/v2/gh/csbiology/BIO-BTE-12-V-4/gh-pages?filepath=tasks/german/wpb-task-10.ipynb)&emsp;
-[![Script](/BIO-BTE-12-V-4/img/badge-script.svg)](/BIO-BTE-12-V-4/tasks/german/wpb-task-10.fsx)&emsp;
-[![Notebook](/BIO-BTE-12-V-4/img/badge-notebook.svg)](/BIO-BTE-12-V-4/tasks/german/wpb-task-10.ipynb)
+[![Binder]({{root}}img/badge-binder.svg)](https://mybinder.org/v2/gh/csbiology/BIO-BTE-12-V-4/gh-pages?filepath={{fsdocs-source-basename}}.ipynb)&emsp;
+[![Script]({{root}}img/badge-script.svg)]({{root}}{{fsdocs-source-basename}}.fsx)&emsp;
+[![Notebook]({{root}}img/badge-notebook.svg)]({{root}}{{fsdocs-source-basename}}.ipynb)
 # Task10 - Datenzugriff
 ## 0 Vorwort
 Folgende Dokumentationen können für die Bearbeitung der Aufgaben hilfreich sein:
